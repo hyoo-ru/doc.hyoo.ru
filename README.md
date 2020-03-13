@@ -1,2 +1,2 @@
 # mol.hyoo.ru
-$mol documentation
+$mol документация
