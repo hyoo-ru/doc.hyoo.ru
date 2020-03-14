@@ -21,10 +21,17 @@
     "node": ">=6.0.0"
   },
   "dependencies": {
+    "@types/compression": "^1.7.0",
+    "@types/express": "^4.17.3",
     "@types/node": "*",
+    "@types/serve-index": "^1.7.30",
     "chokidar": "^3.3.1",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
     "jsdom": "^16.2.1",
     "mam": "*",
+    "portastic": "^1.0.1",
+    "serve-index": "^1.9.1",
     "sourcemap-codec": "^1.4.8",
     "typescript": "^3.8.3"
   }
