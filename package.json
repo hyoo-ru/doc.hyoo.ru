@@ -1,0 +1,27 @@
+{
+  "description": "Simple MAM project",
+  "scripts": {
+    "postinstall": "mam mol/build",
+    "start": "node ./mol/build/-/node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eigenmethod/mam.git"
+  },
+  "keywords": [
+    "mam"
+  ],
+  "author": "jin",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/eigenmethod/mam/issues"
+  },
+  "homepage": "https://github.com/eigenmethod/mam#readme",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "@types/node": "*",
+    "mam": "*"
+  }
+}
