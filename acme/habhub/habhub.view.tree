@@ -1,1 +1,4 @@
-$acme_habhub $mol_view
+$acme_habhub $mol_page
+	title \HabHub
+	body /
+		\Hello HabHub!
