@@ -1,4 +1,4 @@
-$app_start $mol_view
+$hyoo_doc $mol_view
 	sub /
 		\Hello World!!
 
