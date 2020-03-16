@@ -7,6 +7,14 @@
 - почему tree и какие варианты?
     
     https://github.com/eigenmethod/mol/wiki/View-formats
+    
+- как сделать SSR
+
+        надо просто по аналогии с $mol_build_server, срендерить в строку 
+        через jsdom в мидлваре, подменив контексты через 
+        https://github.com/eigenmethod/mol/tree/master/ambient
+        форкать mam по идее тебе не надо, надо создать свой неймспейс, 
+        как hyoo, в нем накропать сервер
 
 
 ## примечания
