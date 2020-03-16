@@ -15,6 +15,12 @@
         https://github.com/eigenmethod/mol/tree/master/ambient
         форкать mam по идее тебе не надо, надо создать свой неймспейс, 
         как hyoo, в нем накропать сервер
+        
+        1. выкинь то, что ты наделал)
+        2. склонируй mam,
+        3. создай в нем hyoo/doc/server.node.ts с этой строчкой, ну в res выведи пока Hello
+        4. собери npm start hyoo/doc
+        5. запусти node hyoo/doc/-/node.test.ts
 
 
 ## примечания
