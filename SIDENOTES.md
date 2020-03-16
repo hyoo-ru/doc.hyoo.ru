@@ -21,6 +21,14 @@
         3. создай в нем hyoo/doc/server.node.ts с этой строчкой, ну в res выведи пока Hello
         4. собери npm start hyoo/doc
         5. запусти node hyoo/doc/-/node.test.ts
+        
+        Мидльварь
+        const jsdom =  new $node.jsdom.JSDOM( '' , { url : 'https://localhost/' } )
+        
+        const app = $hyoo_doc.make({ $: { ...$,  $mol_dom_context = jsdom.window as any} })
+        
+        $mol_fiber_async(() => app.toString())
+          .then(data => res.send(`<html><body>${data}<script....></script></body></html>`))
 
 
 ## примечания
