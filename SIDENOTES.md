@@ -30,6 +30,18 @@
         $mol_fiber_async(() => app.toString())
           .then(data => res.send(`<html><body>${data}<script....></script></body></html>`))
 
+        
+        Как-то так.
+        const app = $my_app.create( app => {
+            app.$ = $mol_ambient({
+                $mol_state_arg : class extends $mol_state_arg {
+                   static href() { return req.params._escaped_fragment_ }
+                }
+            })
+        } )
+        
+        app.dom_tree().outerHTML
+
 
 ## примечания
 
