@@ -43,6 +43,10 @@
         
         app.dom_tree().outerHTML
 
+## ссылки
+
+- статья об атомах https://habr.com/ru/post/235121/   
+
 
 ## примечания
 
