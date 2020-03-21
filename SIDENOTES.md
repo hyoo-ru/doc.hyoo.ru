@@ -45,7 +45,7 @@
 
 ## ссылки
 
-- статья об атомах https://habr.com/ru/post/235121/   
+- статья об атомах https://habr.com/ru/post/235121/, реализация https://github.com/eigenmethod/mol/blob/master/atom2/atom2.ts   
 
 
 ## примечания
