@@ -47,7 +47,8 @@
 
 - статья об атомах https://habr.com/ru/post/235121/ (продолжение https://habr.com/ru/post/240773/), 
     реализация https://github.com/eigenmethod/mol/blob/master/atom2/atom2.ts
-    прикольный доклад из комментариев https://www.youtube.com/watch?v=R4sTvHXkToQ   
+    прикольный доклад из комментариев https://www.youtube.com/watch?v=R4sTvHXkToQ
+    https://habr.com/ru/post/317360/   
 
 
 ## примечания
